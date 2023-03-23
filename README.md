@@ -8,6 +8,34 @@ _______________________________________________
 <p>npm install</p>
 _______________________________________________
 
+<h1>Actualizar paquetes</h1>
+<p>Primero, verifica qué paquetes deben actualizarse:</p>
+_______________________________________________
+npm outdated
+_______________________________________________
+<p>Puedes actualizar un solo paquete con:</p>
+_______________________________________________
+npm update -S <package_name>
+_______________________________________________
+<p>Puedes actualizar todos los paquetes locales con:</p>
+_______________________________________________
+npm update -S
+_______________________________________________
+
+<h2>Actualizar paquetes globales</h2>
+<p>Primero, verifica qué paquetes deben actualizarse:</p>
+_______________________________________________
+npm outdated -g --depth=0
+_______________________________________________
+<p>Puedes actualizar un solo paquete con:</p>
+_______________________________________________
+npm outdated -g <package_name>
+_______________________________________________
+<p>Puedes actualizar todos los paquetes globales con:</p>
+_______________________________________________
+npm update -g
+_______________________________________________
+
 <h2>Base de datos "library"</h2>
 
 
