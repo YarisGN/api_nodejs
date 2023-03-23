@@ -1,5 +1,6 @@
 # api_nodejs
-<h1>Instalación local de paquetes</h1>
+#Instalación
+##Instalación local de paquetes
 <p>Solo se recomienda instalar paquetes localmente para cada proyecto individual.</p>
 
 <p>Para instalar un paquete localmente, navega hasta el directorio de la aplicación de tu sitio (no el directorio /public). 
@@ -26,7 +27,7 @@ _______________________________________________
 _______________________________________________
 
 
-<h2>Actualizar paquetes globales</h2>
+##Actualizar paquetes globales
 <p>Primero, verifica qué paquetes deben actualizarse:</p>
 _______________________________________________
 <p>npm outdated -g --depth=0</p>
@@ -43,6 +44,6 @@ _______________________________________________
 _______________________________________________
 
 
-<h2>Base de datos "library"</h2>
+##Base de datos "library"
 
 
