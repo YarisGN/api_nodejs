@@ -4,7 +4,7 @@
 
 <p>Para instalar un paquete localmente, navega hasta el directorio de la aplicación de tu sitio (no el directorio /public). 
 El comando para instalar un paquete es:</p>
-<p>npm install</p>
+<p style="text-center">npm install</p>
 
 <h2>Base de datos llamada "library"</h2>
 
